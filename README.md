@@ -1,2 +1,2 @@
 # Jequel
-Javascript Query Language
+Javascript Query Element
