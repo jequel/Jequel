@@ -1,2 +1,0 @@
-# Jequel
-Javascript Query Element
