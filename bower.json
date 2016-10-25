@@ -1,0 +1,29 @@
+{
+  "name": "Jequel",
+  "main": "Jequel.js",
+  "homepage": "https://jequel.org",
+  "description": "Heroic Javascript Query Library",
+  "keywords": [
+    "Javascript",
+    "Query",
+    "Polymer",
+    "JSON",
+    "json",
+    "arrays"
+  ],
+  "authors": [
+    "BSD3 License",
+    "Jequel.org",
+    "Jequel Project",
+    "Jequel community",
+    "S.Momot - 2016"
+  ],
+  "license": "BSD3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
